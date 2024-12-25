@@ -1,0 +1,17 @@
+.category-label {
+    padding: 5px 12px;
+    border-radius: 20px;
+    background-color: #FF7575;
+    color: white;
+    white-space: nowrap;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: Bold;
+    
+  }
+  
+  .checkbox-align {
+    margin-left: 5px;
+    align-self: center; /* Căn checkbox với nhãn theo chiều dọc */
+  }
+  
